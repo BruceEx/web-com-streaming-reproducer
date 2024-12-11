@@ -1,0 +1,2 @@
+C:\Users\mlandrito02\Work-Project\excel-rtd-test\ExcelRtdTest\obj\Debug\ExcelRtdTest.csproj.AssemblyReference.cache
+C:\Users\mlandrito02\Work-Project\excel-rtd-test\ExcelRtdTest\obj\Debug\ExcelRtdTest.csproj.CoreCompileInputs.cache

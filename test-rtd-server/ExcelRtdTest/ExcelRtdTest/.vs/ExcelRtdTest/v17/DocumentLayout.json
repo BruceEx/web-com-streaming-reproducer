@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\Downloads\\2411210030007066\\365-com-streaming-reproducer-main\\365-com-streaming-reproducer-main\\test-rtd-server\\ExcelRtdTest\\ExcelRtdTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{563B1AD3-2991-4F3C-9E58-99E990055FF0}|ExcelRtdTest.csproj|y:\\downloads\\2411210030007066\\365-com-streaming-reproducer-main\\365-com-streaming-reproducer-main\\test-rtd-server\\excelrtdtest\\excelrtdtest\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563B1AD3-2991-4F3C-9E58-99E990055FF0}|ExcelRtdTest.csproj|solutionrelative:connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563B1AD3-2991-4F3C-9E58-99E990055FF0}|ExcelRtdTest.csproj|y:\\downloads\\2411210030007066\\365-com-streaming-reproducer-main\\365-com-streaming-reproducer-main\\test-rtd-server\\excelrtdtest\\excelrtdtest\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563B1AD3-2991-4F3C-9E58-99E990055FF0}|ExcelRtdTest.csproj|solutionrelative:constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563B1AD3-2991-4F3C-9E58-99E990055FF0}|ExcelRtdTest.csproj|y:\\downloads\\2411210030007066\\365-com-streaming-reproducer-main\\365-com-streaming-reproducer-main\\test-rtd-server\\excelrtdtest\\excelrtdtest\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563B1AD3-2991-4F3C-9E58-99E990055FF0}|ExcelRtdTest.csproj|solutionrelative:server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "Y:\\Downloads\\2411210030007066\\365-com-streaming-reproducer-main\\365-com-streaming-reproducer-main\\test-rtd-server\\ExcelRtdTest\\ExcelRtdTest\\Constants.cs",
+              "RelativeDocumentMoniker": "Constants.cs",
+              "ToolTip": "Y:\\Downloads\\2411210030007066\\365-com-streaming-reproducer-main\\365-com-streaming-reproducer-main\\test-rtd-server\\ExcelRtdTest\\ExcelRtdTest\\Constants.cs",
+              "RelativeToolTip": "Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:54:59.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "Y:\\Downloads\\2411210030007066\\365-com-streaming-reproducer-main\\365-com-streaming-reproducer-main\\test-rtd-server\\ExcelRtdTest\\ExcelRtdTest\\Server.cs",
+              "RelativeDocumentMoniker": "Server.cs",
+              "ToolTip": "Y:\\Downloads\\2411210030007066\\365-com-streaming-reproducer-main\\365-com-streaming-reproducer-main\\test-rtd-server\\ExcelRtdTest\\ExcelRtdTest\\Server.cs",
+              "RelativeToolTip": "Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:25:28.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connect.cs",
+              "DocumentMoniker": "Y:\\Downloads\\2411210030007066\\365-com-streaming-reproducer-main\\365-com-streaming-reproducer-main\\test-rtd-server\\ExcelRtdTest\\ExcelRtdTest\\Connect.cs",
+              "RelativeDocumentMoniker": "Connect.cs",
+              "ToolTip": "Y:\\Downloads\\2411210030007066\\365-com-streaming-reproducer-main\\365-com-streaming-reproducer-main\\test-rtd-server\\ExcelRtdTest\\ExcelRtdTest\\Connect.cs",
+              "RelativeToolTip": "Connect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:24:55.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

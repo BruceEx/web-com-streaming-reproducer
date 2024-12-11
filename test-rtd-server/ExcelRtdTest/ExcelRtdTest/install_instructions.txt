@@ -1,0 +1,48 @@
+Installation for OfficeLite COM Addin
+
+
+To install
+----------
+
+1. Extract the FactSet.OfficeLite.ComAddin.zip to a folder on the target machine
+
+2. Run the Install.bat file as administrator
+
+3. Launch Excel 2013.  You should see a FactSet ribbon with a single button that will launch our test dialog.
+
+
+
+To uninstall
+----------
+
+Run the Uninstall.bat file as administrator
+
+
+
+=== Manual instructions (Note: all require running from an administrator command prompt and knowledge of where the regasm.exe resides on the machine)
+
+-- Manual install
+
+1. Extract the FactSet.OfficeLite.ComAddin.zip to a folder on the target machine
+
+2. Run the following command from that folder (available in Windows SDK's or Visual Studio command prompts) to register the COM information for the .NET COM Addin assembly
+
+   regasm FactSet.OfficeLite.ComAddin.dll /codebase 
+
+
+3. Run ComAddin.reg to configure the addin to load in Excel
+
+4. Launch Excel 2013.  You should see a FactSet ribbon with a single button that will launch our test dialog.
+
+
+-- Manual uninstall
+
+
+1. Run the following command from the folder containing the FactSet.OfficeLite.ComAddin files
+
+   regasm FactSet.OfficeLite.ComAddin.dll /u /codebase 
+
+
+2. Run ComAddinUnreg.reg to remove the COMAddin entry in Excel
+
+
